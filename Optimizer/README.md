@@ -3,7 +3,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-blue?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/Access-Administrator-red?style=for-the-badge&logo=windows-terminal)
 
-A high-performance optimization utility designed specifically for managing multiple Roblox instances. Hyperion automatically detects your main account and aggressively optimizes background "Alt" accounts to maximize CPU and RAM efficiency.
+A high-performance optimization utility designed specifically for managing multiple Roblox instances. It automatically detects your main account and aggressively optimizes background "Alt" accounts to maximize CPU and RAM efficiency.
 
 ---
 
@@ -11,7 +11,7 @@ A high-performance optimization utility designed specifically for managing multi
 
 This uses an intelligent instance detection system to ensure your gameplay remains smooth while bots or alts run silently in the background.
 
-*   **Main Account Protection**: The **FIRST** Roblox window you open is automatically flagged as your "MAIN". Hyperion will never touch, minimize, or throttle this process.
+*   **Main Account Protection**: The **FIRST** Roblox window you open is automatically flagged as your "MAIN". It will never touch, minimize, or throttle this process.
 *   **Alt Detection**: Every subsequent Roblox window opened after the first is marked as an "ALT".
 *   **Aggressive Optimization**: After a 30-second loading grace period, ALTs are:
     *   Forced to minimize (reducing GPU load).
@@ -43,7 +43,7 @@ Upon the first execution, a file named `HyperionOptimizer.config.json` will be g
 ```
 
 *   **Memory Limits**: Control exactly how much RAM alts are allowed to consume.
-*   **Optimization Delay**: Change how long Hyperion waits before throttling a new window.
+*   **Optimization Delay**: Change how long It waits before throttling a new window.
 *   **CPU Affinity**: Restrict bots to a specific number of cores to keep your primary cores free.
 
 ---
