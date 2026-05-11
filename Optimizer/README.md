@@ -9,7 +9,7 @@ A high-performance optimization utility designed specifically for managing multi
 
 ## 🛠️ How It Works
 
-Hyperion uses an intelligent instance detection system to ensure your gameplay remains smooth while bots or alts run silently in the background.
+This uses an intelligent instance detection system to ensure your gameplay remains smooth while bots or alts run silently in the background.
 
 *   **Main Account Protection**: The **FIRST** Roblox window you open is automatically flagged as your "MAIN". Hyperion will never touch, minimize, or throttle this process.
 *   **Alt Detection**: Every subsequent Roblox window opened after the first is marked as an "ALT".
