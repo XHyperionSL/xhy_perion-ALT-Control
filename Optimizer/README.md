@@ -57,5 +57,5 @@ Upon the first execution, a file named `HyperionOptimizer.config.json` will be g
 ---
 
 <p align="center">
-  <i>Optimized for performance. Built for power users.</i>
+  <i>Optimized for performance.</i>
 </p>
